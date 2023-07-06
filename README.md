@@ -1,2 +1,2 @@
 # CodeClause_URLshortener
-URL shortener in Python
+Project 1-URL shortener in Python
